@@ -1,4 +1,3 @@
-# patient-visits
-Tipo de software: Practice Management System - PMS
-Título: Control de citas para consultorio
-Descripción: Proyecto para Análisis y Diseño Orientado a Objetos
+# Control de citas para consultorio - Proyecto para Análisis y Diseño Orientado a Objetos
+
+`docker-compose exec patient-visits-app bash`
